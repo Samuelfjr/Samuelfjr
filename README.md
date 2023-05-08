@@ -1,4 +1,4 @@
- ## Olá! Eu sou o Samuel.
+ ## Olá! Eu sou o Samuel, apaixonado por programação!!
 
 - 🍵 Busco minha primeira oportunidade como Desenvolvedor Java
 - ☕ Estudando Java, MySQL, JPA/Hibernate

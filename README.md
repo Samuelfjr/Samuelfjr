@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2484c6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem-Vindo!!;Eu+Sou+o+Samuel,+Apaixonado+por+Tecnologia!!+:%29)](https://git.io/typing-svg)
 
-- 🍵 Hoje busco uma (re)colocação como Desenvolvedor Web
+- 🍵 Hoje busco uma recolocação como Desenvolvedor Web
 - :speech_balloon: Estudando: HTML/CSS e JavaScript
 - ☕ Tecnologias estudadas: Java, MySQL, JPA/Hibernate, Maven
 
